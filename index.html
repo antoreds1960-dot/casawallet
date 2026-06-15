@@ -160,6 +160,9 @@
   .cat-pedaggi{background:#FEF3C7}.cat-findo-lara{background:#FEE2E2}.cat-findo-marietta{background:#FEE2E2}
   .cat-sigarette{background:#F3E8FF}.cat-liquidi{background:#F3E8FF}
   .cat-mutuo{background:#FEE2E2}.cat-entrata{background:#D1FAE5}.cat-trasferimento{background:#FFFBEB}
+  .cat-garage{background:#FEF9C3}.cat-tv{background:#EDE9FE}.cat-bollo{background:#FEE2E2}
+  .cat-assicauto{background:#FEE2E2}.cat-manuauto{background:#FEF3C7}.cat-condofondo{background:#DBEAFE}
+  .cat-calzolaio{background:#FCE7F3}.cat-sanguisuga{background:#FFF1F3}
   .cat-altro{background:var(--bg)}
 
   /* STORICO MESI */
@@ -502,6 +505,14 @@
             <option value="sigarette">🚬 Sigarette</option>
             <option value="liquidi">🚬 Liquidi Sigarette</option>
             <option value="mutuo">💸 Mutuo Lara</option>
+            <option value="garage">🅿️ Affitto Garage</option>
+            <option value="tv">📺 Abbonamenti Televisivi</option>
+            <option value="bollo">📄 Bollo Auto</option>
+            <option value="assicauto">🛡️ Assicurazione Auto</option>
+            <option value="manuauto">🔧 Manutenzione Auto</option>
+            <option value="condofondo">🏢 Condominio Fondo</option>
+            <option value="calzolaio">👞 Calzolaio & Sarto</option>
+            <option value="sanguisuga">🧛 Sanguisuga</option>
             <option value="altro">📦 Altro</option>
           </select>
         </div>
@@ -566,6 +577,14 @@
             <option value="sigarette">🚬 Sigarette</option>
             <option value="liquidi">🚬 Liquidi Sigarette</option>
             <option value="mutuo">💸 Mutuo Lara</option>
+            <option value="garage">🅿️ Affitto Garage</option>
+            <option value="tv">📺 Abbonamenti Televisivi</option>
+            <option value="bollo">📄 Bollo Auto</option>
+            <option value="assicauto">🛡️ Assicurazione Auto</option>
+            <option value="manuauto">🔧 Manutenzione Auto</option>
+            <option value="condofondo">🏢 Condominio Fondo</option>
+            <option value="calzolaio">👞 Calzolaio & Sarto</option>
+            <option value="sanguisuga">🧛 Sanguisuga</option>
             <option value="altro">📦 Altro</option>
           </select>
         </div>
@@ -752,6 +771,14 @@
           <option value="sigarette">🚬 Sigarette</option>
           <option value="liquidi">🚬 Liquidi Sigarette</option>
           <option value="mutuo">💸 Mutuo Lara</option>
+          <option value="garage">🅿️ Affitto Garage</option>
+          <option value="tv">📺 Abbonamenti Televisivi</option>
+          <option value="bollo">📄 Bollo Auto</option>
+          <option value="assicauto">🛡️ Assicurazione Auto</option>
+          <option value="manuauto">🔧 Manutenzione Auto</option>
+          <option value="condofondo">🏢 Condominio Fondo</option>
+          <option value="calzolaio">👞 Calzolaio & Sarto</option>
+          <option value="sanguisuga">🧛 Sanguisuga</option>
           <option value="altro">📦 Altro</option>
         </select>
       </div>
@@ -1736,6 +1763,9 @@ function categoriaLabel(cat) {
     'rata-marietta':'Rata Auto Marietta','rata-lara':'Rata Auto Lara',
     'pedaggi':'Pedaggi','findo-lara':'Findomestic Lara','findo-marietta':'Findomestic Marietta',
     'sigarette':'Sigarette','liquidi':'Liquidi Sigarette','mutuo':'Mutuo Lara',
+    'garage':'Affitto Garage','tv':'Abbonamenti Televisivi','bollo':'Bollo Auto',
+    'assicauto':'Assicurazione Auto','manuauto':'Manutenzione Auto',
+    'condofondo':'Condominio Fondo','calzolaio':'Calzolaio & Sarto','sanguisuga':'Sanguisuga',
     'altro':'Altro','entrata':'Entrata','trasferimento':'Trasferimento'
   }[cat] || cat || 'Altro';
 }
@@ -1750,6 +1780,9 @@ const catIconMap = {
   'rata-marietta':'🚗','rata-lara':'🚗','pedaggi':'🚗',
   'findo-lara':'💸','findo-marietta':'💸',
   'sigarette':'🚬','liquidi':'🚬','mutuo':'💸',
+  'garage':'🅿️','tv':'📺','bollo':'📄',
+  'assicauto':'🛡️','manuauto':'🔧','condofondo':'🏢',
+  'calzolaio':'👞','sanguisuga':'🧛',
   'altro':'📦','entrata':'💰','trasferimento':'🔄'
 };
 </script>
