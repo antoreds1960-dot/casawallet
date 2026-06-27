@@ -1,0 +1,1127 @@
+{
+  "state": {
+    "saldi": {
+      "conto": 7204.61,
+      "carta": 738.3399999999996,
+      "contanti": 661.0999999999997,
+      "postepay": 25.31
+    },
+    "transazioni": [
+      {
+        "id": "mqvszrl3w36s",
+        "tipo": "uscita",
+        "amount": 5.8,
+        "conto": "Contanti",
+        "desc": "Tabaccaio lido cormoran Sigarette",
+        "date": "2026-06-26",
+        "categoria": "sigarette"
+      },
+      {
+        "id": "mqv3ta88hl28",
+        "tipo": "uscita",
+        "amount": 16.16,
+        "conto": "Carta",
+        "desc": "Supermercato Lesina",
+        "date": "2026-06-26",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mquw54eem7na",
+        "tipo": "uscita",
+        "amount": 5,
+        "conto": "Contanti",
+        "desc": "Lido cormoran gelati",
+        "date": "2026-06-26",
+        "categoria": "spesa-casa"
+      },
+      {
+        "id": "mquev8scozn1",
+        "tipo": "uscita",
+        "amount": 197.13,
+        "conto": "Conto",
+        "desc": "Rata auto Marietta",
+        "date": "2026-05-30",
+        "categoria": "rata-marietta"
+      },
+      {
+        "id": "mqudhc7y5q7t",
+        "tipo": "entrata",
+        "amount": 1973.73,
+        "conto": "Conto",
+        "desc": "Stipendio Marietta",
+        "date": "2026-06-26",
+        "categoria": "stipendio"
+      },
+      {
+        "id": "mqttxiy30g23",
+        "tipo": "uscita",
+        "amount": 52.8,
+        "conto": "Conto",
+        "desc": "Sky",
+        "date": "2026-06-25",
+        "categoria": "tv"
+      },
+      {
+        "id": "mqti3eato6zq",
+        "tipo": "uscita",
+        "amount": 4,
+        "conto": "Contanti",
+        "desc": "Gelati lido cormoran lesina",
+        "date": "2026-06-25",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mqt5la0evg0b",
+        "tipo": "uscita",
+        "amount": 2,
+        "conto": "Contanti",
+        "desc": "Mancia Alfonso lido cormoran",
+        "date": "2026-06-25",
+        "categoria": "altro"
+      },
+      {
+        "id": "mqt5k1jlehvc",
+        "tipo": "uscita",
+        "amount": 10.2,
+        "conto": "Contanti",
+        "desc": "Panificio lesina",
+        "date": "2026-06-25",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mqsiv5pz6r95",
+        "tipo": "uscita",
+        "amount": 11.23,
+        "conto": "Carta",
+        "desc": "Supermercato lesina",
+        "date": "2026-06-24",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mqsiu8dwnqjn",
+        "tipo": "uscita",
+        "amount": 50,
+        "conto": "Contanti",
+        "desc": "Ristorante lesina",
+        "date": "2026-06-24",
+        "categoria": "altro"
+      },
+      {
+        "id": "mqrjm7b99823",
+        "tipo": "uscita",
+        "amount": 2428.1,
+        "conto": "Conto",
+        "desc": "Bonifico sanatoria casa al comune di lesina",
+        "date": "2026-06-24",
+        "categoria": "altro"
+      },
+      {
+        "id": "mqqropq4regx",
+        "tipo": "uscita",
+        "amount": 500,
+        "conto": "Contanti",
+        "desc": "Spesa geometra lesina",
+        "date": "2026-06-23",
+        "categoria": "altro"
+      },
+      {
+        "id": "mqpiyqwdt0i0",
+        "tipo": "uscita",
+        "amount": 1.8,
+        "conto": "Contanti",
+        "desc": "Ciotola cinese lesina",
+        "date": "2026-06-22",
+        "categoria": "spesa-casa"
+      },
+      {
+        "id": "mqpixqkfjb6m",
+        "tipo": "uscita",
+        "amount": 12.6,
+        "conto": "Carta",
+        "desc": "Tabaccaio lesina + accendino",
+        "date": "2026-06-22",
+        "categoria": "sigarette"
+      },
+      {
+        "id": "mqpivhrp8upj",
+        "tipo": "uscita",
+        "amount": 6,
+        "conto": "Contanti",
+        "desc": "Panificio lesina",
+        "date": "2026-06-22",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mqpiu7ih6jl7",
+        "tipo": "uscita",
+        "amount": 3.2,
+        "conto": "Contanti",
+        "desc": "Dentifricio",
+        "date": "2026-06-22",
+        "categoria": "spesa-casa"
+      },
+      {
+        "id": "mqp2m6qofl3g",
+        "tipo": "uscita",
+        "amount": 5,
+        "conto": "Contanti",
+        "desc": "Gelato lido cormoran lesina",
+        "date": "2026-06-22",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mqoyzy8yozm1",
+        "tipo": "uscita",
+        "amount": 304,
+        "conto": "Contanti",
+        "desc": "Affitto ombrellone lesina",
+        "date": "2026-06-22",
+        "categoria": "altro"
+      },
+      {
+        "id": "mqoyyxk0i7mz",
+        "tipo": "uscita",
+        "amount": 11,
+        "conto": "Contanti",
+        "desc": "Pasticca antiparassitario lesina",
+        "date": "2026-06-22",
+        "categoria": "tequila"
+      },
+      {
+        "id": "mqmnf1hrx88u",
+        "tipo": "uscita",
+        "amount": 7.9,
+        "conto": "Contanti",
+        "desc": "Ferramenta apricena chiave e brucole",
+        "date": "2026-06-20",
+        "categoria": "spesa-casa"
+      },
+      {
+        "id": "mqm9d1wzg755",
+        "tipo": "uscita",
+        "amount": 22,
+        "conto": "Contanti",
+        "desc": "mercato apricena",
+        "date": "2026-06-20",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mqm9b7oliqhd",
+        "tipo": "uscita",
+        "amount": 77.27,
+        "conto": "Carta",
+        "desc": "Conad apricena",
+        "date": "2026-06-20",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mqm99lce5g4w",
+        "tipo": "uscita",
+        "amount": 122.98,
+        "conto": "Carta",
+        "desc": "Euronics termoli macchina caffé",
+        "date": "2026-06-20",
+        "categoria": "spesa-casa"
+      },
+      {
+        "id": "mqm98r8kn19u",
+        "tipo": "uscita",
+        "amount": 11.6,
+        "conto": "Carta",
+        "desc": "Tabaccaio lesina",
+        "date": "2026-06-20",
+        "categoria": "sigarette"
+      },
+      {
+        "id": "mqm98a07rgyw",
+        "tipo": "uscita",
+        "amount": 18.89,
+        "conto": "Carta",
+        "desc": "Gas lesina",
+        "date": "2026-06-20",
+        "categoria": "carburante"
+      },
+      {
+        "id": "mqm97rbulzsi",
+        "tipo": "uscita",
+        "amount": 17.1,
+        "conto": "Carta",
+        "desc": "Polase",
+        "date": "2026-06-20",
+        "categoria": "farmacia"
+      },
+      {
+        "id": "mqlyzwdtycjz",
+        "tipo": "uscita",
+        "amount": 1,
+        "conto": "Conto",
+        "desc": "Commissione banca",
+        "date": "2026-06-20",
+        "categoria": "sanguisuga"
+      },
+      {
+        "id": "mqlyz0jnxux3",
+        "tipo": "trasferimento",
+        "amount": 1000,
+        "conto": "Conto",
+        "dest": "Carta",
+        "desc": "Ricarica carta",
+        "date": "2026-06-20",
+        "categoria": "trasferimento"
+      },
+      {
+        "id": "mqle7h7hm8s1",
+        "tipo": "uscita",
+        "amount": 31.6,
+        "conto": "Carta",
+        "desc": "Roma lesina autostrada",
+        "date": "2026-06-19",
+        "categoria": "pedaggi"
+      },
+      {
+        "id": "mqle6b0i429j",
+        "tipo": "uscita",
+        "amount": 8.9,
+        "conto": "Contanti",
+        "desc": "Pizzology",
+        "date": "2026-06-19",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mqle5mbckur2",
+        "tipo": "uscita",
+        "amount": 6.9,
+        "conto": "Contanti",
+        "desc": "Tabaccaio antonio",
+        "date": "2026-06-19",
+        "categoria": "liquidi"
+      },
+      {
+        "id": "mqle4l10dq0g",
+        "tipo": "uscita",
+        "amount": 30.76,
+        "conto": "Carta",
+        "desc": "Gas autostrada",
+        "date": "2026-06-19",
+        "categoria": "carburante"
+      },
+      {
+        "id": "mql1tic098ku",
+        "tipo": "uscita",
+        "amount": 8,
+        "conto": "Contanti",
+        "desc": "Calzolaio",
+        "date": "2026-06-19",
+        "categoria": "calzolaio"
+      },
+      {
+        "id": "mqknmvxghkk3",
+        "tipo": "entrata",
+        "amount": 1200,
+        "conto": "Contanti",
+        "desc": "Rimborso casa lesina Flavio",
+        "date": "2026-06-19",
+        "categoria": "altro"
+      },
+      {
+        "id": "mqk0psiakw6e",
+        "tipo": "uscita",
+        "amount": 90.5,
+        "conto": "Conto",
+        "desc": "Ristorante zazá con bancomat",
+        "date": "2026-06-18",
+        "categoria": "altro"
+      },
+      {
+        "id": "mqk0nd8y7bx4",
+        "tipo": "uscita",
+        "amount": 11.6,
+        "conto": "Carta",
+        "desc": "Tabaccaio",
+        "date": "2026-06-18",
+        "categoria": "sigarette"
+      },
+      {
+        "id": "mqj7eu8doaqx",
+        "tipo": "uscita",
+        "amount": 10.79,
+        "conto": "Carta",
+        "desc": "Motorino",
+        "date": "2026-06-18",
+        "categoria": "carburante"
+      },
+      {
+        "id": "mqj7d7t9it6i",
+        "tipo": "uscita",
+        "amount": 29,
+        "conto": "Carta",
+        "desc": "Dacia tagliando",
+        "date": "2026-06-18",
+        "categoria": "manuauto"
+      },
+      {
+        "id": "mqiao8g1qmyp",
+        "tipo": "uscita",
+        "amount": 2.95,
+        "conto": "Carta",
+        "desc": "Sir",
+        "date": "2026-06-17",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mqgwlxe5t5l5",
+        "tipo": "uscita",
+        "amount": 10.56,
+        "conto": "Carta",
+        "desc": "Risparmio casa",
+        "date": "2026-06-16",
+        "categoria": "spesa-casa"
+      },
+      {
+        "id": "mqgtdv01poel",
+        "tipo": "uscita",
+        "amount": 8,
+        "conto": "Conto",
+        "desc": "Mercatino usato con bancomat",
+        "date": "2026-06-16",
+        "categoria": "abbigliamento"
+      },
+      {
+        "id": "mqgtac8r0a2s",
+        "tipo": "entrata",
+        "amount": 25,
+        "conto": "Contanti",
+        "desc": "Rimborso parrucchiera",
+        "date": "2026-06-16",
+        "categoria": "altro"
+      },
+      {
+        "id": "mqgt9earjzv3",
+        "tipo": "uscita",
+        "amount": 25,
+        "conto": "Carta",
+        "desc": "Parrucchiera",
+        "date": "2026-06-16",
+        "categoria": "altro"
+      },
+      {
+        "id": "mqgt8lnme44w",
+        "tipo": "uscita",
+        "amount": 11.86,
+        "conto": "Carta",
+        "desc": "Lidl",
+        "date": "2026-06-16",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mqgc4fmi4333",
+        "tipo": "uscita",
+        "amount": 4.5,
+        "conto": "Carta",
+        "desc": "Tabaccaio Superenalotto",
+        "date": "2026-06-16",
+        "categoria": "gratta"
+      },
+      {
+        "id": "mqgc345rvtbt",
+        "tipo": "uscita",
+        "amount": 5,
+        "conto": "Carta",
+        "desc": "Tabaccaio",
+        "date": "2026-06-16",
+        "categoria": "gratta"
+      },
+      {
+        "id": "mqgc2al8puoq",
+        "tipo": "uscita",
+        "amount": 11.6,
+        "conto": "Carta",
+        "desc": "Tabaccaio",
+        "date": "2026-06-16",
+        "categoria": "sigarette"
+      },
+      {
+        "id": "mqe1dge41tuc",
+        "tipo": "uscita",
+        "amount": 1.5,
+        "conto": "Contanti",
+        "desc": "Sir",
+        "date": "2026-06-14",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mqdluwgf8k31",
+        "tipo": "uscita",
+        "amount": 5,
+        "conto": "Carta",
+        "desc": "Tabaccaio, vinti 10",
+        "date": "2026-06-14",
+        "categoria": "gratta"
+      },
+      {
+        "id": "mqdlu6vacvns",
+        "tipo": "uscita",
+        "amount": 11.6,
+        "conto": "Carta",
+        "desc": "Tabaccaio",
+        "date": "2026-06-14",
+        "categoria": "sigarette"
+      },
+      {
+        "id": "mqdehfclea26",
+        "tipo": "uscita",
+        "amount": 1.6,
+        "conto": "Contanti",
+        "desc": "Frutta e verdura",
+        "date": "2026-06-13",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mqcmg1j47oob",
+        "tipo": "uscita",
+        "amount": 6.74,
+        "conto": "Carta",
+        "desc": "Sir",
+        "date": "2026-06-13",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mqc41w1dfjog",
+        "tipo": "entrata",
+        "amount": 14,
+        "conto": "Contanti",
+        "desc": "rimborso biglietto Roma L'aquila",
+        "date": "2026-06-13",
+        "categoria": "altro"
+      },
+      {
+        "id": "mqc4195153of",
+        "tipo": "uscita",
+        "amount": 13.99,
+        "conto": "Carta",
+        "desc": "biglietto Roma L'aquila",
+        "date": "2026-06-13",
+        "categoria": "altro"
+      },
+      {
+        "id": "mqc407qk6tqy",
+        "tipo": "uscita",
+        "amount": 3.7,
+        "conto": "Contanti",
+        "desc": "sir",
+        "date": "2026-06-12",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mqb3a7i64uhd",
+        "tipo": "uscita",
+        "amount": 5,
+        "conto": "Carta",
+        "desc": "calzolaio",
+        "date": "2026-06-08",
+        "categoria": "calzolaio"
+      },
+      {
+        "id": "mqarw2ubjl66",
+        "tipo": "uscita",
+        "amount": 4.78,
+        "conto": "Carta",
+        "desc": "sir",
+        "date": "2026-06-11",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mqarqvbks8mg",
+        "tipo": "uscita",
+        "amount": 2.65,
+        "conto": "Contanti",
+        "desc": "Farmacia & Visite Mediche",
+        "date": "2026-06-04",
+        "categoria": "farmacia"
+      },
+      {
+        "id": "mqarpvi99mtz",
+        "tipo": "uscita",
+        "amount": 6,
+        "conto": "Contanti",
+        "desc": "Sir",
+        "date": "2026-06-09",
+        "categoria": "spesa-casa"
+      },
+      {
+        "id": "mqakraxv2y3u",
+        "tipo": "uscita",
+        "amount": 10.54,
+        "conto": "Carta",
+        "desc": "sir",
+        "date": "2026-06-03",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mqakezffyoyj",
+        "tipo": "uscita",
+        "amount": 44.97,
+        "conto": "Conto",
+        "desc": "telefono Lara",
+        "date": "2026-06-05",
+        "categoria": "findo-lara"
+      },
+      {
+        "id": "mqakeypn2c3o",
+        "tipo": "uscita",
+        "amount": 57.45,
+        "conto": "Conto",
+        "desc": "telefono Marietta",
+        "date": "2026-06-05",
+        "categoria": "findo-marietta"
+      },
+      {
+        "id": "mqakb3h8hcpi",
+        "tipo": "uscita",
+        "amount": 1,
+        "conto": "Conto",
+        "desc": "Commissioni banca",
+        "date": "2026-06-11",
+        "categoria": "sanguisuga"
+      },
+      {
+        "id": "mqajeyw9x82q",
+        "tipo": "uscita",
+        "amount": 5,
+        "conto": "Carta",
+        "desc": "Tabaccaio vinti 5",
+        "date": "2026-06-12",
+        "categoria": "gratta"
+      },
+      {
+        "id": "mqajeobm0qtd",
+        "tipo": "uscita",
+        "amount": 11.6,
+        "conto": "Carta",
+        "desc": "Tabaccaio",
+        "date": "2026-06-12",
+        "categoria": "sigarette"
+      },
+      {
+        "id": "mqajawcu6ppf",
+        "tipo": "uscita",
+        "amount": 9.5,
+        "conto": "Carta",
+        "desc": "Panificio",
+        "date": "2026-06-08",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mqajacj57rs0",
+        "tipo": "uscita",
+        "amount": 6.5,
+        "conto": "Carta",
+        "desc": "Gelati",
+        "date": "2026-06-08",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mqah8de36ear",
+        "tipo": "uscita",
+        "amount": 1200.44,
+        "conto": "Carta",
+        "desc": "LARA MARIETTA",
+        "date": "2026-06-11",
+        "categoria": "farmacia"
+      },
+      {
+        "id": "mqah76bnywzq",
+        "tipo": "trasferimento",
+        "amount": 1000,
+        "conto": "Conto",
+        "dest": "Carta",
+        "desc": "Ricarica carta",
+        "date": "2026-06-10",
+        "categoria": "trasferimento"
+      },
+      {
+        "id": "mqah3wddm6f6",
+        "tipo": "uscita",
+        "amount": 99.69,
+        "conto": "Carta",
+        "desc": "Triscount",
+        "date": "2026-06-09",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mqah21fxy24m",
+        "tipo": "entrata",
+        "amount": 100,
+        "conto": "Contanti",
+        "desc": "Restituzione soldi imu lesina Flavio",
+        "date": "2026-06-09",
+        "categoria": "imu-lesina"
+      },
+      {
+        "id": "mq7xxl0lpmzd",
+        "tipo": "uscita",
+        "amount": 11.6,
+        "conto": "Carta",
+        "desc": "tabaccaio",
+        "date": "2026-06-10",
+        "categoria": "sigarette"
+      },
+      {
+        "id": "mq7xx7c2hc0n",
+        "tipo": "uscita",
+        "amount": 5,
+        "conto": "Carta",
+        "desc": "gratta e vinci",
+        "date": "2026-06-10",
+        "categoria": "gratta"
+      },
+      {
+        "id": "mq7xvxl3wxaj",
+        "tipo": "uscita",
+        "amount": 12.5,
+        "conto": "Conto",
+        "desc": "condominio caldaie",
+        "date": "2026-06-09",
+        "categoria": "condominio"
+      },
+      {
+        "id": "mq7xvh2htobb",
+        "tipo": "uscita",
+        "amount": 20,
+        "conto": "Conto",
+        "desc": "condominio",
+        "date": "2026-06-09",
+        "categoria": "condofondo"
+      },
+      {
+        "id": "mq7xuxovekmt",
+        "tipo": "uscita",
+        "amount": 67.82,
+        "conto": "Conto",
+        "desc": "Tim",
+        "date": "2026-06-08",
+        "categoria": "telefonia"
+      },
+      {
+        "id": "mq7xr95m9owp",
+        "tipo": "uscita",
+        "amount": 13.99,
+        "conto": "Carta",
+        "desc": "Netflix",
+        "date": "2026-06-05",
+        "categoria": "tv"
+      },
+      {
+        "id": "mq7xqc7ntb6m",
+        "tipo": "uscita",
+        "amount": 102,
+        "conto": "Conto",
+        "desc": "f24 IMU lesina Flavio",
+        "date": "2026-06-08",
+        "categoria": "imu-lesina"
+      },
+      {
+        "id": "mq7xpwntfcop",
+        "tipo": "uscita",
+        "amount": 102,
+        "conto": "Conto",
+        "desc": "f24 IMU lesina",
+        "date": "2026-06-08",
+        "categoria": "imu-lesina"
+      },
+      {
+        "id": "mq7xpctbkx69",
+        "tipo": "uscita",
+        "amount": 126,
+        "conto": "Conto",
+        "desc": "f24 IMU ururi",
+        "date": "2026-06-08",
+        "categoria": "imu-ururi"
+      },
+      {
+        "id": "mq7xotwx9tbu",
+        "tipo": "uscita",
+        "amount": 359,
+        "conto": "Conto",
+        "desc": "f24 IMU roma",
+        "date": "2026-06-08",
+        "categoria": "imu-roma"
+      },
+      {
+        "id": "mq7xnv1h38zj",
+        "tipo": "uscita",
+        "amount": 11.6,
+        "conto": "Carta",
+        "desc": "tabaccaio",
+        "date": "2026-06-08",
+        "categoria": "sigarette"
+      },
+      {
+        "id": "mq7xnizq9t0f",
+        "tipo": "uscita",
+        "amount": 5,
+        "conto": "Carta",
+        "desc": "tabaccaio",
+        "date": "2026-06-08",
+        "categoria": "gratta"
+      },
+      {
+        "id": "mq7xmxh7fdu1",
+        "tipo": "uscita",
+        "amount": 8.57,
+        "conto": "Carta",
+        "desc": "sir",
+        "date": "2026-06-07",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mq7xmc3n3d2c",
+        "tipo": "uscita",
+        "amount": 33.4,
+        "conto": "Carta",
+        "desc": "frutta secca mercato",
+        "date": "2026-06-06",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mq7xls6lk17a",
+        "tipo": "uscita",
+        "amount": 11.6,
+        "conto": "Carta",
+        "desc": "tabaccaio",
+        "date": "2026-06-06",
+        "categoria": "sigarette"
+      },
+      {
+        "id": "mq7xlghakrvi",
+        "tipo": "uscita",
+        "amount": 5,
+        "conto": "Carta",
+        "desc": "tabaccaio",
+        "date": "2026-06-06",
+        "categoria": "gratta"
+      },
+      {
+        "id": "mq7xkx6xg39t",
+        "tipo": "uscita",
+        "amount": 6,
+        "conto": "Contanti",
+        "desc": "mercato",
+        "date": "2026-06-06",
+        "categoria": "abbigliamento"
+      },
+      {
+        "id": "mq7xkhix7hb8",
+        "tipo": "uscita",
+        "amount": 8.84,
+        "conto": "Carta",
+        "desc": "sir",
+        "date": "2026-06-06",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mq7xhz2zzvwx",
+        "tipo": "uscita",
+        "amount": 4.2,
+        "conto": "Carta",
+        "desc": "Di più",
+        "date": "2026-06-05",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mq7xhabfmt08",
+        "tipo": "uscita",
+        "amount": 27.58,
+        "conto": "Carta",
+        "desc": "assicurazione Lara",
+        "date": "2026-06-04",
+        "categoria": "assicauto"
+      },
+      {
+        "id": "mq7xgsfde1rx",
+        "tipo": "uscita",
+        "amount": 83.16,
+        "conto": "Carta",
+        "desc": "benzina e gas",
+        "date": "2026-06-04",
+        "categoria": "carburante"
+      },
+      {
+        "id": "mq7xg5g52i43",
+        "tipo": "uscita",
+        "amount": 1.8,
+        "conto": "Conto",
+        "desc": "commissione banca",
+        "date": "2026-06-04",
+        "categoria": "sanguisuga"
+      },
+      {
+        "id": "mq7xftvxavki",
+        "tipo": "uscita",
+        "amount": 255.6,
+        "conto": "Conto",
+        "desc": "bollo Lara",
+        "date": "2026-06-04",
+        "categoria": "bollo"
+      },
+      {
+        "id": "mq7xfbwfae3x",
+        "tipo": "uscita",
+        "amount": 1,
+        "conto": "Contanti",
+        "desc": "pedaggio autostrada",
+        "date": "2026-06-04",
+        "categoria": "pedaggi"
+      },
+      {
+        "id": "mq7xel112pxk",
+        "tipo": "uscita",
+        "amount": 89,
+        "conto": "Carta",
+        "desc": "Ovale",
+        "date": "2026-06-04",
+        "categoria": "liquidi"
+      },
+      {
+        "id": "mq7xe2hb16z4",
+        "tipo": "uscita",
+        "amount": 11.99,
+        "conto": "Carta",
+        "desc": "barrette pasti Marietta",
+        "date": "2026-06-04",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mq7xddjrarkr",
+        "tipo": "uscita",
+        "amount": 11.6,
+        "conto": "Carta",
+        "desc": "tabaccaio",
+        "date": "2026-06-04",
+        "categoria": "sigarette"
+      },
+      {
+        "id": "mq7xcz2fw6qn",
+        "tipo": "uscita",
+        "amount": 5,
+        "conto": "Carta",
+        "desc": "tabaccaio",
+        "date": "2026-06-04",
+        "categoria": "gratta"
+      },
+      {
+        "id": "mq7xcfadyj1g",
+        "tipo": "uscita",
+        "amount": 11,
+        "conto": "Contanti",
+        "desc": "vino",
+        "date": "2026-06-04",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mq7xbq2rmj5y",
+        "tipo": "uscita",
+        "amount": 25,
+        "conto": "Contanti",
+        "desc": "lavaggio tequila",
+        "date": "2026-06-03",
+        "categoria": "tequila"
+      },
+      {
+        "id": "mq7xaoazom9r",
+        "tipo": "uscita",
+        "amount": 10,
+        "conto": "Contanti",
+        "desc": "lavaggio automobile",
+        "date": "2026-06-03",
+        "categoria": "manuauto"
+      },
+      {
+        "id": "mq7x8y4zm5df",
+        "tipo": "uscita",
+        "amount": 11.6,
+        "conto": "Carta",
+        "desc": "tabaccaio",
+        "date": "2026-06-02",
+        "categoria": "sigarette"
+      },
+      {
+        "id": "mq7x8974ctvv",
+        "tipo": "uscita",
+        "amount": 3.6,
+        "conto": "Contanti",
+        "desc": "frutta",
+        "date": "2026-06-02",
+        "categoria": "spesa-alim"
+      },
+      {
+        "id": "mq7x7h1xrgf1",
+        "tipo": "uscita",
+        "amount": 5,
+        "conto": "Carta",
+        "desc": "tabaccaio",
+        "date": "2026-06-02",
+        "categoria": "gratta"
+      },
+      {
+        "id": "mq7x5ojjwlqf",
+        "tipo": "entrata",
+        "amount": 1711.79,
+        "conto": "Conto",
+        "desc": "Pensione",
+        "date": "2026-06-01",
+        "categoria": "pensione"
+      },
+      {
+        "id": "mq7x4u6holmd",
+        "tipo": "uscita",
+        "amount": 197.13,
+        "conto": "Conto",
+        "desc": "Rata Auto Marietta",
+        "date": "2026-06-01",
+        "categoria": "rata-marietta"
+      },
+      {
+        "id": "mq7x4t09doyw",
+        "tipo": "uscita",
+        "amount": 2,
+        "conto": "Conto",
+        "desc": "motorola Marietta",
+        "date": "2026-06-01",
+        "categoria": "telefonia"
+      },
+      {
+        "id": "mq7x1nsrlmvo",
+        "tipo": "uscita",
+        "amount": 250,
+        "conto": "Conto",
+        "desc": "garage",
+        "date": "2026-06-01",
+        "categoria": "garage"
+      },
+      {
+        "id": "mq7x06ahyko9",
+        "tipo": "uscita",
+        "amount": 5.85,
+        "conto": "Carta",
+        "desc": "sir",
+        "date": "2026-06-01",
+        "categoria": "spesa-alim"
+      }
+    ],
+    "ricorrenti": [
+      {
+        "id": "mq7x1791e4wo",
+        "nome": "garage",
+        "amount": 250,
+        "conto": "Conto",
+        "categoria": "casa",
+        "freq": "mensile",
+        "giorno": 1,
+        "ultimaApplicazione": "2026-06"
+      },
+      {
+        "id": "mq7x2g50marw",
+        "nome": "motorola Marietta",
+        "amount": 2,
+        "conto": "Conto",
+        "categoria": "altro",
+        "freq": "mensile",
+        "giorno": 1,
+        "ultimaApplicazione": "2026-06"
+      },
+      {
+        "id": "mq7xiom70s6e",
+        "nome": "Netflix",
+        "amount": 13.99,
+        "conto": "Carta",
+        "categoria": "altro",
+        "freq": "mensile",
+        "giorno": 5,
+        "ultimaApplicazione": "2026-06"
+      },
+      {
+        "id": "mq7xssrxwexw",
+        "nome": "Tim",
+        "amount": 67.82,
+        "conto": "Conto",
+        "categoria": "altro",
+        "freq": "mensile",
+        "giorno": 8,
+        "ultimaApplicazione": "2026-06"
+      },
+      {
+        "id": "mqakdzi7nxwc",
+        "nome": "telefono Marietta",
+        "amount": 57.45,
+        "conto": "Conto",
+        "categoria": "findo-marietta",
+        "freq": "mensile",
+        "giorno": 5,
+        "ultimaApplicazione": "2026-06"
+      },
+      {
+        "id": "mqakenw3yehe",
+        "nome": "telefono Lara",
+        "amount": 44.97,
+        "conto": "Conto",
+        "categoria": "findo-lara",
+        "freq": "mensile",
+        "giorno": 5,
+        "ultimaApplicazione": "2026-06"
+      },
+      {
+        "id": "mqttxa6nyt9w",
+        "nome": "Sky",
+        "amount": 52.8,
+        "conto": "Conto",
+        "categoria": "tv",
+        "freq": "mensile",
+        "giorno": 25,
+        "ultimaApplicazione": "2026-06"
+      },
+      {
+        "id": "mqudjpwpefri",
+        "nome": "Rata auto Lara",
+        "amount": 271.9,
+        "conto": "Conto",
+        "categoria": "rata-lara",
+        "freq": "mensile",
+        "giorno": 30,
+        "ultimaApplicazione": null
+      },
+      {
+        "id": "mqueikluauol",
+        "nome": "Rata auto Marietta",
+        "amount": 197.13,
+        "conto": "Conto",
+        "categoria": "rata-marietta",
+        "freq": "mensile",
+        "giorno": 30,
+        "spostaWeekend": true,
+        "ultimaApplicazione": "2026-06"
+      },
+      {
+        "id": "mqueuo99iw3j",
+        "nome": "Rata auto Marietta",
+        "amount": 197.13,
+        "conto": "Conto",
+        "categoria": "rata-marietta",
+        "freq": "mensile",
+        "giorno": 30,
+        "spostaWeekend": true,
+        "ultimaApplicazione": null
+      }
+    ],
+    "storico": []
+  },
+  "snap": {
+    "conto": 9895.89,
+    "carta": 971.35,
+    "contanti": 355.85,
+    "mese": null,
+    "postepay": 25.31
+  },
+  "versione": "casawallet_v4",
+  "data": "2026-06-27"
+}
