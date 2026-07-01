@@ -1401,21 +1401,21 @@ function saveFile() {
 
 // ── INIT ──
 load();
-// Congelo manuale 31 maggio 2025
+// Congelo manuale 31 maggio 2026
 (function() {
   if (!snap._history) snap._history = {};
-  if (!snap._history['2025-05']) {
-    snap._history['2025-05'] = { conto: 9895.89, carta: 971.35, contanti: 355.25, postepay: 25.31 };
+  if (!snap._history['2026-05']) {
+    snap._history['2026-05'] = { conto: 9895.89, carta: 971.35, contanti: 355.25, postepay: 25.31 };
     // Imposta anche i valori correnti se non ancora congelati
     if (snap.conto == null) snap.conto = 9895.89;
     if (snap.carta == null) snap.carta = 971.35;
     if (snap.contanti == null) snap.contanti = 355.25;
     if (snap.postepay == null) snap.postepay = 25.31;
     if (!snap._ultimoCongelo) snap._ultimoCongelo = {};
-    if (!snap._ultimoCongelo.conto) snap._ultimoCongelo.conto = '2025-05';
-    if (!snap._ultimoCongelo.carta) snap._ultimoCongelo.carta = '2025-05';
-    if (!snap._ultimoCongelo.contanti) snap._ultimoCongelo.contanti = '2025-05';
-    if (!snap._ultimoCongelo.postepay) snap._ultimoCongelo.postepay = '2025-05';
+    if (!snap._ultimoCongelo.conto) snap._ultimoCongelo.conto = '2026-05';
+    if (!snap._ultimoCongelo.carta) snap._ultimoCongelo.carta = '2026-05';
+    if (!snap._ultimoCongelo.contanti) snap._ultimoCongelo.contanti = '2026-05';
+    if (!snap._ultimoCongelo.postepay) snap._ultimoCongelo.postepay = '2026-05';
     saveSnap();
   }
 })();
